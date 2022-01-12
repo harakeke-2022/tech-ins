@@ -9,8 +9,8 @@
 | Campbell |     Ahmad          |        |
 | Claire |    Jared            |          |
 | Hiro |      Jared         |          |
-| Isabella |   Jared             |      |
-| Jake |      Jared          |      |
+| Isabella |   Jared             |  ✔️    |
+| Jake |      Jared          |    ✔️  |
 | Jinny |     Jared           |    |
 | Joanne |       Eleanor         |       |
 | KateT |      Eleanor          |       |
