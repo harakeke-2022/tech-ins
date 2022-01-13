@@ -12,7 +12,7 @@
 | Isabella |   Jared             |  ✔️    |
 | Jake |      Jared          |    ✔️  |
 | Jinny |     Jared           |    |
-| Joanne |       Eleanor         |       |
+| Joanne |       Eleanor         | ✔️     |
 | KateT |      Eleanor          |       |
 | KateH |  Eleanor              |       |
 | Nikhita |     Eleanor           |      |
