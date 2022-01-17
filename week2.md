@@ -4,9 +4,9 @@
 | ------- | :---------: | :------: |
 | Angela |   Ahmad        |        |
 | Angus |       Ahmad         |       |
-| BenA |  Ahmad               |     |
-| BenD |  Ahmad            |      |
-| Campbell |     Ahmad          |        |
+| BenA |  Ahmad               |  ✔  |
+| BenD |  Ahmad            |    ✔️ |
+| Campbell |     Ahmad          | ✔️       |
 | Claire |    Jared            |    ✔️      |
 | Hiro |      Jared         |      ✔️    |
 | Isabella |   Jared             |  ✔️    |
