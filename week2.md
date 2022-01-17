@@ -3,7 +3,7 @@
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
 | Angela |   Ahmad        |        |
-| Angus |       Ahmad         |       |
+| Angus |       Ahmad         |  ✔️     |
 | BenA |  Ahmad               |  ✔  |
 | BenD |  Ahmad            |    ✔️ |
 | Campbell |     Ahmad          | ✔️       |
