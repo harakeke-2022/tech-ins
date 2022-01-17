@@ -13,8 +13,8 @@
 | Jake |      Jared          |    ✔️  |
 | Jinny |     Jared           |    |
 | Joanne |       Eleanor         | ✔️     |
-| KateT |      Eleanor          |       |
-| KateH |  Eleanor              |       |
+| KateT |      Eleanor          | ✔️     |
+| KateH |  Eleanor              | ✔️     |
 | Nikhita |     Eleanor           |      |
 | Ningyi |     Eleanor           |     |
 | Ryan |      Prue          |  ✔️  |
