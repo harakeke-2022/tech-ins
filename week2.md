@@ -7,8 +7,8 @@
 | BenA |  Ahmad               |     |
 | BenD |  Ahmad            |      |
 | Campbell |     Ahmad          |        |
-| Claire |    Jared            |          |
-| Hiro |      Jared         |          |
+| Claire |    Jared            |    ✔️      |
+| Hiro |      Jared         |      ✔️    |
 | Isabella |   Jared             |  ✔️    |
 | Jake |      Jared          |    ✔️  |
 | Jinny |     Jared           |    |
