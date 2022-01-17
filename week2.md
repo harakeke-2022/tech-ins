@@ -17,10 +17,10 @@
 | KateH |  Eleanor              |       |
 | Nikhita |     Eleanor           |      |
 | Ningyi |     Eleanor           |     |
-| Ryan |      Prue          |     |
-| Sadie |     Prue           |     |
+| Ryan |      Prue          |  ✔️  |
+| Sadie |     Prue           |  ✔️   |
 | SamW |      Prue          |     |
 | SamD |      Prue          |     |
-| Tarek |     Prue          |     |
+| Tarek |     Prue          |  ✔️   |
 
 <!-- ✔️ or ❌ -->
