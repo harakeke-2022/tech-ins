@@ -11,7 +11,7 @@
 | Hiro |      Jared         |      ✔️    |
 | Isabella |   Jared             |  ✔️    |
 | Jake |      Jared          |    ✔️  |
-| Jinny |     Jared           |    |
+| Jinny |     Jared           |  ✔️ |
 | Joanne |       Eleanor         | ✔️     |
 | KateT |      Eleanor          | ✔️     |
 | KateH |  Eleanor              | ✔️     |
