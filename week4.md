@@ -2,25 +2,25 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angela |           |        |
-| Angus |                |       |
-| BenA |                 |     |
-| BenD |              |      |
-| Campbell |               |        |
-| Claire |                |          |
-| Hiro |               |          |
-| Isabella |                |      |
-| Jake |                |      |
-| Jinny |                |    |
-| Joanne |                |       |
-| KateT |                |       |
-| KateH |                |       |
-| Nikhita |                |      |
-| Ningyi |                |     |
-| Ryan |                |     |
-| Sadie |                |     |
-| SamW |                |     |
-| SamD |                |     |
-| Tarek |               |     |
+| Angela |    Prue       |        |
+| Angus |       Prue         |       |
+| BenA |       Prue          |     |
+| BenD |      Prue        |      |
+| Campbell |    Prue           |        |
+| Claire |   Ahmad             |          |
+| Hiro |       Ahmad        |          |
+| Isabella |     Ahmad           |      |
+| Jake |      Ahmad          |      |
+| Jinny |      Ahmad          |    |
+| Joanne |       Jared         |       |
+| KateT |       Jared          |       |
+| KateH |       Jared          |       |
+| Nikhita |     Jared            |      |
+| Ningyi |      Jared           |     |
+| Ryan |      Eleanor          |     |
+| Sadie |       Eleanor         |     |
+| SamW |        Eleanor        |     |
+| SamD |       Eleanor         |     |
+| Tarek |      Eleanor         |     |
 
 <!-- ✔️ or ❌ -->
